@@ -1,0 +1,25 @@
+<KISSsoft filetype="projectfile">
+ <properties>
+  <description/>
+  <customer/>
+  <standards used="false"/>
+  <skripts used="false"/>
+  <created>
+   <by>11639</by>
+   <date format="dd.MM.yyyy">23.02.2023</date>
+   <time format="hh:mm:ss">15:11:18</time>
+  </created>
+  <updated>
+   <by/>
+   <date format="dd.MM.yyyy"/>
+   <time format="hh:mm:ss"/>
+  </updated>
+  <comment/>
+ </properties>
+ <files>
+  <file>-1-LHY.Z12</file>
+  <file>-2-直齿齿轮啮合刚度测试.Z12</file>
+  <file>-3-行星齿轮啮合刚度测试.Z14</file>
+  <file>-4-(斜齿)行星齿轮啮合刚度测试.Z14</file>
+ </files>
+</KISSsoft>
